@@ -1,5 +1,5 @@
-# levertue
+# Le Vertue
 
-Lam Tsé-Bovie
-Pu Yu
+Lam Tsé-Bovie;
+Pu Yu;
 Akue Floriane
